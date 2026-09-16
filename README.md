@@ -35,14 +35,18 @@
 - **技术进阶**：全局向量词嵌入 (GloVe)、子词嵌入 (Subword Embedding)。
 - **BERT**：介绍BERT架构，以及下游任务案例
 
+### 6. 大模型微调（L58 -  ）
+- **监督微调**：SFT。
+- **RLHF**：人类偏好对齐。
+
 
 ## 🤝 交流与指正
 
 目前我正处于UCAS研究生入学前的进阶学习阶段。**如果您在阅读过程中发现任何公式推导、逻辑论述或代码实现上的偏差，诚挚欢迎您提交 Issue 或 Pull Request。** 您的每一份指正对我而言都弥足珍贵。
 
 ## 🚀 未来路线图
-- [ ] LLM微调技术 (Fine-Tuning)
-- [ ] 强化学习 (Reinforcement Learning, RL)
+- [✅️] LLM微调技术 (Fine-Tuning)
+- [✅️] 强化学习 (Reinforcement Learning, RL)
 - [ ] 对抗攻击 (Adversarial Attacks) 等 AI 安全研究
 - [ ] 智能体 (Agent) 安全研究
 
